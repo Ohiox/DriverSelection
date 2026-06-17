@@ -3,5 +3,6 @@ bin/
 obj/
 .vs/
 .vscode/
+PortableGit/
 *.zip
 
